@@ -2,8 +2,7 @@
 
 
 # Particle Converter
-![Phiên bản mới nhất](https://img.shields.io/github/v/release/Tunnns/ParticleConverter_New)  
-[![Giấy phép](https://img.shields.io/github/license/kemo14331/Particle-Converter)](https://github.com/kemo14331/Particle-Converter/blob/main/LICENSE)  
+![Phiên bản mới nhất](https://img.shields.io/github/v/release/Tunnns/ParticleConverter_New) [![Giấy phép](https://img.shields.io/github/license/kemo14331/Particle-Converter)](https://github.com/kemo14331/Particle-Converter/blob/main/LICENSE)  
 
 **Particle Converter** là một ứng dụng chuyển đổi tệp hình ảnh thành lệnh particle dùng trong Minecraft.
 
