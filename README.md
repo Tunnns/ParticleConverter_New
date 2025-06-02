@@ -40,7 +40,7 @@ Particle Converter is an application to convert image files into particle comman
 * Kemo431  
 * Twitter: [@newkemo431](https://twitter.com/newkemo431)
 * Kaitouu
-* Youtube: [@kaitouaonhayy](https://www.youtube.com/@kaitouaonhayy)
+* Youtube: [Thợ Kaitouu](https://www.youtube.com/@kaitouaonhayy)
  
 ## License
 This app is under the [MIT license](https://en.wikipedia.org/wiki/MIT_License).
