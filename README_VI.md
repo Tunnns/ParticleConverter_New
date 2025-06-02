@@ -33,7 +33,7 @@
 ---
 
 ## Tải xuống  
-[Particle-Converter/Release](https://github.com/kemo14331/Particle-Converter/releases/latest) / [Particle-Converter/Release for 1.20.5+](https://github.com/Tunnns/ParticleConverter_New/releases/tag/v2.0.0)
+[Particle-Converter/Release 1.20.4 trở xuống](https://github.com/kemo14331/Particle-Converter/releases/latest) / [Particle-Converter/Release for 1.20.5+](https://github.com/Tunnns/ParticleConverter_New/releases/tag/v2.0.0)
 
 ---
 
