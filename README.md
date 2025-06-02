@@ -19,7 +19,7 @@ Particle Converter is an application to convert image files into particle comman
 * Display size can be specified by block.
 * Support for changing resolution.
 * Supports the color specification of dust.
-* Compatible with particles other than dust.
+* Compatible with particles other and dust.
 * Multi-language support for the app.
 * Only for 1.20.5+
 
