@@ -25,7 +25,7 @@
 * Có thể chỉ định kích thước hiển thị theo block.
 * Hỗ trợ điều chỉnh độ phân giải.
 * Hỗ trợ chỉ định màu sắc cho particle loại "dust".
-* Tương thích với nhiều loại particle khác ngoài "dust".
+* Tương thích với nhiều loại particle và "dust".
 * Ứng dụng hỗ trợ đa ngôn ngữ.
 * Chỉ hoạt động trên Minecraft phiên bản **1.20.5+**.
 
