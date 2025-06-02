@@ -24,7 +24,7 @@ Particle Converter is an application to convert image files into particle comman
 * Only for 1.20.5+
 
 ## Downloads
- [Particle-Converter/Release](https://github.com/kemo14331/Particle-Converter/releases/latest) / [Particle-Converter/Release For 1.20.5+](https://github.com/Tunnns/KaitouuMeoMeo/releases/tag/v2.0.0) 
+ [Particle-Converter/Release](https://github.com/kemo14331/Particle-Converter/releases/latest) / [Particle-Converter/Release For 1.20.5+]([https://github.com/Tunnns/KaitouuMeoMeo/releases/tag/v2.0.0](https://github.com/Tunnns/ParticleConverter_New/releases/tag/v2.0.0)) 
 
 ## Requirement
  
