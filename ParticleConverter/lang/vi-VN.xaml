@@ -1,0 +1,73 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="WindowTitle">Particle Converter 1.20.5+</system:String>
+
+    <system:String x:Key="DeveloperTwitter">DeveloperTwitter</system:String>
+    <system:String x:Key="BugReport">Báo lỗi</system:String>
+    <system:String x:Key="About">Giới thiệu</system:String>
+
+    <system:String x:Key="SettingTitle">Cài đặt chuyển đổi</system:String>
+    <system:String x:Key="ImageFileName">Tệp hình ảnh</system:String>
+    <system:String x:Key="Brows">Duyệt</system:String>
+
+    <system:String x:Key="CoordinateMode">Chế độ tọa độ</system:String>
+    <system:String x:Key="RelativeCoordinate">Tương đối thế giới</system:String>
+    <system:String x:Key="LocalCoordinate">Tương đối cục bộ</system:String>
+
+    <system:String x:Key="CoordinateAxis">Trục tọa độ</system:String>
+    <system:String x:Key="X-Y">X-Y</system:String>
+    <system:String x:Key="Y-Z">Y-Z</system:String>
+    <system:String x:Key="Z-X">Z-X</system:String>
+
+    <system:String x:Key="Rotation">Xoay</system:String>
+    <system:String x:Key="Flip">Lật</system:String>
+
+    <system:String x:Key="VerticalAlignment">Căn chỉnh dọc</system:String>
+    <system:String x:Key="Top">Trên</system:String>
+    <system:String x:Key="Center">Giữa</system:String>
+    <system:String x:Key="Bottom">Dưới</system:String>
+
+    <system:String x:Key="HorizontalAlignment">Căn chỉnh ngang</system:String>
+    <system:String x:Key="Right">Phải</system:String>
+    <system:String x:Key="Left">Trái</system:String>
+
+    <system:String x:Key="Particle">Hạt</system:String>
+    <system:String x:Key="ParticleType">Loại particle</system:String>
+    <system:String x:Key="DisplayMode">Chế độ hiển thị</system:String>
+    <system:String x:Key="Normal">Normal</system:String>
+    <system:String x:Key="Force">Force</system:String>
+    <system:String x:Key="ParticleViewer">Thực thể xem</system:String>
+    <system:String x:Key="DustColorStatic">Màu</system:String>
+    <system:String x:Key="ColorCode">Mã màu</system:String>
+
+    <system:String x:Key="ParticleSize">Kích thước particle</system:String>
+
+    <system:String x:Key="ParticleDensity">Mật độ</system:String>
+    <system:String x:Key="AutoSize">Tự động chỉnh kích thước</system:String>
+
+    <system:String x:Key="Size">Kích thước (blocks)</system:String>
+    <system:String x:Key="Width">Chiều rộng</system:String>
+    <system:String x:Key="Height">Chiều cao</system:String>
+
+    <system:String x:Key="Resolution">Độ phân giải</system:String>
+    <system:String x:Key="AutoResolution">Tự động</system:String>
+
+    <system:String x:Key="ExtraOptions">Cài đặt nâng cao</system:String>
+
+    <system:String x:Key="UsePreview">Xem trước</system:String>
+
+    <system:String x:Key="ExportSettings">Cài đặt xuất</system:String>
+    <system:String x:Key="ExportFolder">Thư mục xuất</system:String>
+    <system:String x:Key="Export">Xuất!!</system:String>
+
+    <system:String x:Key="ParticleCounterAlert">
+        Có quá nhiều particle.
+        Hiển thị có thể không chính xác tùy theo hiệu năng máy tính.
+        Vui lòng cân nhắc thay đổi độ phân giải.
+    </system:String>
+
+    <system:String x:Key="UpdateNotification">Thông báo cập nhật</system:String>
+    <system:String x:Key="UpdateNotificationMsg">Đã có phiên bản mới. \nBạn có muốn tải về không?</system:String>
+</ResourceDictionary>
