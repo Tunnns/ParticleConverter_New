@@ -51,9 +51,8 @@
 ## Tác giả
 * Kemo431
 * Twitter: [@newkemo431](https://twitter.com/newkemo431)
-
 * Kaitouu
-* YouTube: [@kaitouaonhayy](https://www.youtube.com/@kaitouaonhayy)
+* YouTube: [Thợ Kaitouu](https://www.youtube.com/@kaitouaonhayy)
 
 ---
 
