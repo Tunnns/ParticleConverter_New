@@ -1,3 +1,6 @@
+[English](README.md) / [Tiếng Việt](README_VI.md)
+
+
 # Particle Converter
 ![Phiên bản mới nhất](https://img.shields.io/github/v/release/Tunnns/ParticleConverter_New)  
 [![Giấy phép](https://img.shields.io/github/license/kemo14331/Particle-Converter)](https://github.com/kemo14331/Particle-Converter/blob/main/LICENSE)  
